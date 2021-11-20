@@ -79,7 +79,13 @@ section {
     background-position: center;
     position: relative;
 }
-
+/*NO LONGER USED
+/* these two colors will override the ones above in .hero 
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
+*/
 .hero-form {
     border: solid 3px #024e76;
     background-color: #fce138;

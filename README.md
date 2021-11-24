@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy Inc. _ locally creating a merge conglict
 
 ## Purpose
 A website that offers fitness training services.
@@ -14,5 +14,3 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Rochelle Younger
 
 ### ©️2019 Run Buddy, Inc
-
-#### merge conflict

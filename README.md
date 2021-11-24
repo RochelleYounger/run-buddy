@@ -1,4 +1,5 @@
 # Run Buddy Inc. _ locally creating a merge conglict
+# Run Buddy - creating a merge conflict remotely
 
 ## Purpose
 A website that offers fitness training services.

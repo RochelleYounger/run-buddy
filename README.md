@@ -14,3 +14,5 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Rochelle Younger
 
 ### ©️2019 Run Buddy, Inc
+
+#### merge conflict
